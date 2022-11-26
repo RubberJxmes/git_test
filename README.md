@@ -1,1 +1,3 @@
 # git_test
+My first Github repos....
+Hello Sexy.. my bad I mean Hello Odin
